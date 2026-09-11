@@ -31,7 +31,7 @@ class VectorEstatico {
     }
 }
 
-public class Main {
+public class main {
 
     public static void main(String[] args) {
         VectorEstatico algo = new VectorEstatico(2);
